@@ -1,3 +1,3 @@
-function login(params) {
+function login(p) {
     return true;
 }
