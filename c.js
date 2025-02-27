@@ -1,1 +1,3 @@
-/git/c.js
+function login(params) {
+    return true;
+}
